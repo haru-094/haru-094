@@ -15,7 +15,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Based_in-Kigali,_Rwanda-green?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/github/followers/USERNAME?style=flat-square" />
+<img src="https://img.shields.io/github/followers/haru-094?style=flat-square" />
 </p>
 
 ---
