@@ -14,15 +14,31 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haru-094&color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/haru-094?style=flat-square" />
+<img src="https://img.shields.io/badge/Based_in-Kigali,_Rwanda-green?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/github/followers/USERNAME?style=flat-square" />
 </p>
 
 ---
 
 ## 🎯 About Me
-I am a software engineer at the **African Leadership University (ALU)**.
-My current focus is **machine learning and deep learning**, especially **neural networks**, within AI and machine learning.
+
+I am a **second-year Software Engineering student** and software engineer at the **African Leadership University (ALU)** in Kigali, Rwanda. 🇷🇼
+
+My main focus is **machine learning and deep learning**, especially **neural networks**. I learn best by building real projects, so I put my practice on GitHub.
+
+**What I'm doing now**
+
+- 🤖 Building an **AutoML tool from scratch** that detects the task type, trains and compares models, and tracks results with MLflow
+- 📈 Building ML projects with **scikit-learn pipelines** and **Streamlit** apps
+- 🏁 Joining **machine learning competitions** to test my skills on real problems
+
+**Learning background**
+
+- 🎓 Completed the **ALX Data Science Program**
+- 🌍 Completed **GCI World 2026** (Data Science and AI) at the University of Tokyo
+- 💡 Completed the **SoCreative Entrepreneurship Program** with ALU and the British Council
+
+**Outside of code:** 📸 Photography · ⚽ Football · 🏐 Volleyball · 🎮 Gaming
 
 ---
 
