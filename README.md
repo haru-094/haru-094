@@ -117,6 +117,26 @@ Predicts the medical insurance charges of a person from their age, BMI, smoking 
 
 ---
 
+### 🤖 AutoML
+
+An AutoML tool built from scratch that automatically detects the task type (classification or regression), trains and compares multiple models, and tracks experiments with MLflow.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+| | |
+|---|---|
+| 🔍 **Task Detection** | Auto-detects classification vs regression |
+| 🏆 **Model Selection** | Trains & compares multiple models automatically |
+| 📊 **Experiment Tracking** | MLflow integration for result logging |
+| 🛠️ **Built From Scratch** | No AutoML libraries — pure scikit-learn pipelines |
+
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haru-094/AutoML)
+
+---
+
 ## 📬 Let's Connect
 
 Data analyst background meets AI research ambition. I document my learning openly so others can follow the same path.
