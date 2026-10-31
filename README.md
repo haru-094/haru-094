@@ -77,8 +77,8 @@ My main focus is **machine learning and deep learning**, especially **neural net
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haru-094&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru-094&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haru-094&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haru-094&layout=compact&theme=tokyonight&langs_count=6" height="170" />
 </p>
 
 <p align="center">
