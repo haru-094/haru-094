@@ -113,7 +113,7 @@ Predicts the medical insurance charges of a person from their age, BMI, smoking 
 | 🎯 **Target** | charges (insurance cost) |
 | ✂️ **Split** | 855 train / 214 validation / 268 test |
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haru-094/REPO_NAME)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haru-094/Insurance_Cost_Prediction)
 
 ---
 
