@@ -119,19 +119,25 @@ Predicts the medical insurance charges of a person from their age, BMI, smoking 
 
 ### 🤖 AutoML
 
-An AutoML tool built from scratch that automatically detects the task type (classification or regression), trains and compares multiple models, and tracks experiments with MLflow.
+A Streamlit app for exploring tabular data, preparing features, comparing machine-learning models, and optionally tuning and saving a model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-| | |
+**7-step workflow — all in one app:**
+
+| Tab | Description |
 |---|---|
-| 🔍 **Task Detection** | Auto-detects classification vs regression |
-| 🏆 **Model Selection** | Trains & compares multiple models automatically |
-| 📊 **Experiment Tracking** | MLflow integration for result logging |
-| 🛠️ **Built From Scratch** | No AutoML libraries — pure scikit-learn pipelines |
+| 📁 **Upload data** | Upload CSV / XLSX or choose a sample dataset |
+| 🔎 **EDA** | Target distribution, missing values, feature distributions & correlations |
+| ⚙️ **Preprocessing** | Auto-detects ID columns, imputation, one-hot encoding — fitted on train only |
+| ✂️ **Split data** | Reproducible train / validation / test splits with stratification support |
+| 🏆 **Train & leaderboard** | Compare models ranked by validation score with overfitting view |
+| 🎛️ **Tune model** | Optional cross-validation hyperparameter search — only applies if score improves |
+| 💾 **Save model** | Download pipeline as `.pkl` and evaluate once on the held-out test set |
 
 [![View Project](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haru-094/AutoML)
 
